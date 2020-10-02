@@ -14,7 +14,7 @@ const users = [];
 const siteConfig = {
     title: 'Chivon Powers', // Title for your website.
     tagline: 'Building intelligent products and business strategies from data',
-    profilePhoto: 'img/profile.png',
+    profilePhoto: 'MicrosoftTeams-image (1).png',
     url: 'https://chipowers.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
@@ -67,9 +67,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'https://www.linkedin.com/in/chivon-powers-a6730610/',
-        twitter: '',
-        github: 'https://github.com/ChiPowers/',
+        linkedin: 'chivon-powers-a6730610',
+        twitter: 'ChivPowers',
+        github: 'ChiPowers/',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
