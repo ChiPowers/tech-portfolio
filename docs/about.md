@@ -3,27 +3,14 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
-
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
-
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+Bringing thoughtful application of experimental design, statistics, and machine learning to build intelligent product features and inform high impact strategies for business growth.
 
 ## Current Role
-
-Grace Hopper Celebration Attendee
+I'm currently a Data & Applied Scientist at Microsoft creating intelligent features and functionality in the Money in Excel product. 
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
+- Grace Hopper Celebration 2020 Sponsored Attendee
 
 ## Social Media
 
